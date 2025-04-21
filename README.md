@@ -10,6 +10,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| IT Automation                                 | <a href="https://github.com/tfasanya79/it_automation_scripts"> Automation Project </a>| 
 | SIEM Implementation and Log Analysis          | Link here soon |
 | Network Traffic Monitoring and Attack Detection | Link here soon |
 | Security Automation with Shuffle SOAR         | Link here soon |
