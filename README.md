@@ -1,12 +1,12 @@
 
-# Hi there 👋, I'm Timothy O, Fasanya
-<a href="https://www.linkedin.com/in/timfas/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Welcome to my GitHub Profile!
 
+<a href="https://www.linkedin.com/in/timfas/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/tim-fas">
   <img src="https://img.shields.io/badge/-Credly-F6A500?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEVHcEyOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo5kITAAAAIXRSTlMAERITFBUVFxggHyApKjA2ODlFSE5VYWNrcnV3hIeJk56rwsXJ1Nfm2Nw7arUAAABnSURBVBjTZc9ZDoAwCAXQATUFRXW9///ZgkzQhoZQDPbK3JEyZXjBMGfDNuc1kUeCc1sJRhwl4oU1CjJUYmAxEaJGPOwOgCqYJw6z1MmR6UCzq6tcNskPjKb0AGdc1Az/vsAAAAASUVORK5CYII=&logoColor=white" alt="Credly Badge" />
 </a>
 
-## Skills & Associated Project
+## Skills & Associated Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
