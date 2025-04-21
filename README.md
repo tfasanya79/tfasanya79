@@ -6,6 +6,55 @@
   <img src="https://img.shields.io/badge/-Credly-F6A500?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEVHcEyOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo5kITAAAAIXRSTlMAERITFBUVFxggHyApKjA2ODlFSE5VYWNrcnV3hIeJk56rwsXJ1Nfm2Nw7arUAAABnSURBVBjTZc9ZDoAwCAXQATUFRXW9///ZgkzQhoZQDPbK3JEyZXjBMGfDNuc1kUeCc1sJRhwl4oU1CjJUYmAxEaJGPOwOgCqYJw6z1MmR6UCzq6tcNskPjKb0AGdc1Az/vsAAAAASUVORK5CYII=&logoColor=white" alt="Credly Badge" />
 </a>
 
+## Skills & Associated Project
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | Link here soon |
+| Network Traffic Monitoring and Attack Detection | Link here soon |
+| Security Automation with Shuffle SOAR         | Link here soon |
+| Incident Response Planning and Execution      | Link here soon |
+| Case Management with TheHive                  | Link here soon |
+| Scripting and Automation for Threat Mitigation | Link here soon |
+
+## Certifications
+
+<div>
+  <!-- CompTIA Security+ -->
+  <img src="https://img.shields.io/badge/-Security%2B%20ce-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ ce"/>
+
+  <!-- IBM IT Scrum Master -->
+  <img src="https://img.shields.io/badge/-IBM%20Scrum%20Master-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM IT Scrum Master"/>
+
+  <!-- Certified Scrum Master (Scrum Alliance) -->
+<img src="https://img.shields.io/badge/-Certified%20Scrum%20Master%20(Scrum%20Alliance)-6DB33F?style=for-the-badge&logoColor=white" alt="Certified Scrum Master (Scrum Alliance)"/>
+
+  <!-- Google IT Automation with Python -->
+  <img src="https://img.shields.io/badge/-IT%20Automation%20w%2F%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Automation with Python"/>
+
+  <!-- IBM DevOps Essentials -->
+  <img src="https://img.shields.io/badge/-IBM%20DevOps%20Essentials-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DevOps Essentials"/>
+
+  <!-- Google IT Support -->
+  <img src="https://img.shields.io/badge/-IT%20Support%20Certificate-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support"/>
+
+  <!-- Splunk Power User -->
+  <img src="https://img.shields.io/badge/-Splunk%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Core Certified Power User"/>
+
+  <!-- Splunk Advanced Power User -->
+  <img src="https://img.shields.io/badge/-Splunk%20Advanced%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Advanced Power User"/>
+
+  <!-- Splunk Admin -->
+  <img src="https://img.shields.io/badge/-Splunk%20Admin-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Enterprise Certified Admin"/>
+
+  <!-- Cisco Cybersecurity Essentials -->
+  <img src="https://img.shields.io/badge/-Cybersecurity%20Essentials-1D63ED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cybersecurity Essentials"/>
+
+  <!-- Cisco CCNA -->
+  <img src="https://img.shields.io/badge/-Cisco%20CCNA-1D63ED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
+</div>
+
+
 <!-- BLOCKED FROM HERE
 ## [Brief Introduction - Remove this afterwards]
 
