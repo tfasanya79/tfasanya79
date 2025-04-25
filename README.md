@@ -10,7 +10,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| IT Automation                                 | <a href="https://github.com/tfasanya79/it_automation_scripts"> Automation Project </a>| 
+| WebStrike Lab                                 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/timothy.fasanya79/webstrike/"> CyberDefenders' Lab </a>|
+| IT Automation Scrips                                | <a href="https://github.com/tfasanya79/it_automation_scripts"> Python Automation Project </a>| 
 | SIEM Implementation and Log Analysis          | Link here soon |
 | Network Traffic Monitoring and Attack Detection | Link here soon |
 | Security Automation with Shuffle SOAR         | Link here soon |
