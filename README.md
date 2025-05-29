@@ -10,6 +10,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Multi-agent AI powered dev engine                        |<a href="https://github.com/tfasanya79/ai-dev-agent"> ai-dev-agent </a>|
 |Automating GitHub Project | <a href="https://github.com/tfasanya79/github_prjt_automation/blob/main/README.md">PROJECT Automation </a> | 
 | WebStrike Lab                                 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/timothy.fasanya79/webstrike/"> CyberDefenders' Lab </a>|
 | Splunk Lab Automation                         |<a href="https://github.com/tfasanya79/splunk-lab-automation-suite"> Splunk Lab Automation Project </a>|
