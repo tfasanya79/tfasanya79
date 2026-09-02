@@ -16,6 +16,7 @@ Live, single purpose web tools I designed, built, and deployed myself.
 | [subnet.](https://aipal-staging.cloud/subnet-calculator/) | Visual IPv4 subnet and CIDR calculator with a VLSM subnet splitter |
 | [passcheck.](https://aipal-staging.cloud/passcheck/) | Password strength and breach checker, built around HaveIBeenPwned's k-anonymity API |
 | [inspect.](https://aipal-staging.cloud/inspect/) | DNS and security header inspector, checks SPF, DKIM, DMARC, and grades security headers A to F |
+| [acl-gen.](https://aipal-staging.cloud/acl-gen/) | Firewall rule and ACL syntax translator, generates Cisco IOS, pfSense, and iptables syntax from one rule |
 
 ## Skills & Associated Projects
 
