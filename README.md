@@ -15,6 +15,7 @@ Live, single purpose web tools I designed, built, and deployed myself.
 | [portfolio.](https://aipal-staging.cloud/portfolio/) | Hub linking to every tool below |
 | [subnet.](https://aipal-staging.cloud/subnet-calculator/) | Visual IPv4 subnet and CIDR calculator with a VLSM subnet splitter |
 | [passcheck.](https://aipal-staging.cloud/passcheck/) | Password strength and breach checker, built around HaveIBeenPwned's k-anonymity API |
+| [inspect.](https://aipal-staging.cloud/inspect/) | DNS and security header inspector, checks SPF, DKIM, DMARC, and grades security headers A to F |
 
 ## Skills & Associated Projects
 
