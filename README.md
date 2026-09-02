@@ -17,6 +17,7 @@ Live, single purpose web tools I designed, built, and deployed myself.
 | [passcheck.](https://aipal-staging.cloud/passcheck/) | Password strength and breach checker, built around HaveIBeenPwned's k-anonymity API |
 | [inspect.](https://aipal-staging.cloud/inspect/) | DNS and security header inspector, checks SPF, DKIM, DMARC, and grades security headers A to F |
 | [acl-gen.](https://aipal-staging.cloud/acl-gen/) | Firewall rule and ACL syntax translator, generates Cisco IOS, pfSense, and iptables syntax from one rule |
+| [cert-check.](https://aipal-staging.cloud/cert-check/) | SSL/TLS certificate checker, reports expiry, chain of trust, protocol version, and key strength for any domain |
 
 ## Skills & Associated Projects
 
