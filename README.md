@@ -6,6 +6,16 @@
   <img src="https://img.shields.io/badge/-Credly-F6A500?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEVHcEyOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo5kITAAAAIXRSTlMAERITFBUVFxggHyApKjA2ODlFSE5VYWNrcnV3hIeJk56rwsXJ1Nfm2Nw7arUAAABnSURBVBjTZc9ZDoAwCAXQATUFRXW9///ZgkzQhoZQDPbK3JEyZXjBMGfDNuc1kUeCc1sJRhwl4oU1CjJUYmAxEaJGPOwOgCqYJw6z1MmR6UCzq6tcNskPjKb0AGdc1Az/vsAAAAASUVORK5CYII=&logoColor=white" alt="Credly Badge" />
 </a>
 
+## Web Tools
+
+Live, single purpose web tools I designed, built, and deployed myself.
+
+| Tool | What it does |
+|------|--------------|
+| [portfolio.](https://aipal-staging.cloud/portfolio/) | Hub linking to every tool below |
+| [subnet.](https://aipal-staging.cloud/subnet-calculator/) | Visual IPv4 subnet and CIDR calculator with a VLSM subnet splitter |
+| [passcheck.](https://aipal-staging.cloud/passcheck/) | Password strength and breach checker, built around HaveIBeenPwned's k-anonymity API |
+
 ## Skills & Associated Projects
 
 | Skill                                         | Associated Project         |
