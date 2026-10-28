@@ -1,148 +1,57 @@
+# Timothy Fasanya
 
-# Welcome to my GitHub Profile!
+**Vulnerability management and security operations consultant.** Sligo, Ireland.
 
-<a href="https://www.linkedin.com/in/timfas/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.credly.com/users/tim-fas">
-  <img src="https://img.shields.io/badge/-Credly-F6A500?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEVHcEyOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo5kITAAAAIXRSTlMAERITFBUVFxggHyApKjA2ODlFSE5VYWNrcnV3hIeJk56rwsXJ1Nfm2Nw7arUAAABnSURBVBjTZc9ZDoAwCAXQATUFRXW9///ZgkzQhoZQDPbK3JEyZXjBMGfDNuc1kUeCc1sJRhwl4oU1CjJUYmAxEaJGPOwOgCqYJw6z1MmR6UCzq6tcNskPjKb0AGdc1Az/vsAAAAASUVORK5CYII=&logoColor=white" alt="Credly Badge" />
-</a>
+I work the full vulnerability lifecycle: asset discovery, assessment, risk based prioritisation, remediation coordination, verification and management level reporting. Qualys VMDR, Splunk, Azure and Windows estates. EU citizen with full right to work in Ireland and across the EU.
 
-## Web Tools
+[LinkedIn](https://www.linkedin.com/in/timfas/) | [Portfolio](https://timfas.com) | [Credly](https://www.credly.com/users/tim-fas) | timothy.fasanya79@gmail.com
 
-Live, single purpose web tools I designed, built, and deployed myself.
+---
+
+## Vulnerability management and security tooling
+
+Small, single purpose tools I designed, built and deployed myself. Each one reports findings in plain English with a grade, because a finding nobody can read is a finding nobody fixes.
 
 | Tool | What it does |
 |------|--------------|
-| [portfolio.](https://aipal-staging.cloud/portfolio/) | Hub linking to every tool below |
-| [subnet.](https://aipal-staging.cloud/subnet-calculator/) | Visual IPv4 subnet and CIDR calculator with a VLSM subnet splitter |
-| [passcheck.](https://aipal-staging.cloud/passcheck/) | Password strength and breach checker, built around HaveIBeenPwned's k-anonymity API |
-| [inspect.](https://aipal-staging.cloud/inspect/) | DNS and security header inspector, checks SPF, DKIM, DMARC, and grades security headers A to F |
-| [acl-gen.](https://aipal-staging.cloud/acl-gen/) | Firewall rule and ACL syntax translator, generates Cisco IOS, pfSense, and iptables syntax from one rule |
-| [cert-check.](https://aipal-staging.cloud/cert-check/) | SSL/TLS certificate checker, reports expiry, chain of trust, protocol version, and key strength for any domain |
+| [cert-check](https://timfas.com/cert-check/) | TLS certificate assessment: expiry countdown, chain of trust, negotiated protocol version, key strength, hostname coverage, letter grade. Server side checks refuse to connect to private or reserved addresses. |
+| [inspect](https://timfas.com/inspect/) | Domain email authentication and browser security header inspection: SPF, DKIM, DMARC, CSP, HSTS, X-Frame-Options. Weighted A to F grading. Resolver blocks private, loopback and link local ranges. |
+| [acl-gen](https://timfas.com/acl-gen/) | Firewall rule and ACL translator. One rule in, Cisco IOS, pfSense, iptables, AWS NACL and Azure NSG out, with shadowed rule detection and a packet path tester. |
+| [passcheck](https://timfas.com/passcheck/) | Password strength and breach checker. Entropy and pattern analysis plus Have I Been Pwned k-anonymity lookup, all client side. The password never leaves the browser. |
+| [subnet](https://timfas.com/subnet-calculator/) | IPv4 and CIDR calculator with binary breakdown, VLSM splitter and a plain English explanation of the arithmetic. |
+| [portfolio](https://timfas.com) | The hub. One Caddy reverse proxy with automatic TLS in front of static sites and small Node services. |
 
-## Skills & Associated Projects
+## SIEM, detection and automation
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Multi-agent AI powered dev engine                        |<a href="https://github.com/tfasanya79/ai-dev-agent"> ai-dev-agent </a>|
-|Automating GitHub Project | <a href="https://github.com/tfasanya79/github_prjt_automation/blob/main/README.md">PROJECT Automation </a> | 
-| WebStrike Lab                                 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/timothy.fasanya79/webstrike/"> CyberDefenders' Lab </a>|
-| Splunk Lab Automation                         |<a href="https://github.com/tfasanya79/splunk-lab-automation-suite"> Splunk Lab Automation Project </a>|
-| IT Automation Scrips                                | <a href="https://github.com/tfasanya79/it_automation_scripts"> Python Automation Project </a>| 
-| SIEM Implementation and Log Analysis          | Link here soon |
-| Network Traffic Monitoring and Attack Detection | Link here soon |
-| Security Automation with Shuffle SOAR         | Link here soon |
-| Incident Response Planning and Execution      | Link here soon |
-| Case Management with TheHive                  | Link here soon |
-| Scripting and Automation for Threat Mitigation | Link here soon |
+| Project | What it does |
+|---------|--------------|
+| [siem-log-analysis-lab](https://github.com/tfasanya79/siem-log-analysis-lab) | End to end SIEM setup and blue team automation. |
+| [splunk-admin-automation](https://github.com/tfasanya79/splunk-admin-automation) | Python automation for Splunk administration. |
+| [splunk-lab-automation-suite](https://github.com/tfasanya79/splunk-lab-automation-suite) | Ansible and Python framework covering Splunk install, index and user management, knowledge objects, health monitoring and backup. |
+| [it_automation_scripts](https://github.com/tfasanya79/it_automation_scripts) | Python automation scripts for monitoring and reporting. |
+| [github_prjt_automation](https://github.com/tfasanya79/github_prjt_automation) | Automating GitHub Projects and Issues for Scrum delivery. |
 
-## Certifications
+## AI and application work
 
-<div>
-  <!-- CompTIA Security+ -->
-  <img src="https://img.shields.io/badge/-Security%2B%20ce-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ ce"/>
+| Project | What it does |
+|---------|--------------|
+| [resume-developer](https://github.com/tfasanya79/resume-developer) | Local first desktop CV builder built with Tauri, React and Rust. ATS scoring sidebar, PDF import and export, application tracker, job matching, optional offline model inference through Ollama. Career data never leaves the machine. |
+| [ai-dev-agent](https://github.com/tfasanya79/ai-dev-agent) | Local AI development assistant driven from a chat interface. |
 
-  <!-- IBM IT Scrum Master -->
-  <img src="https://img.shields.io/badge/-IBM%20Scrum%20Master-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM IT Scrum Master"/>
+---
 
-  <!-- Certified Scrum Master (Scrum Alliance) -->
-<img src="https://img.shields.io/badge/-Certified%20Scrum%20Master%20(Scrum%20Alliance)-6DB33F?style=for-the-badge&logoColor=white" alt="Certified Scrum Master (Scrum Alliance)"/>
+## Certifications and training
 
-  <!-- Google IT Automation with Python -->
-  <img src="https://img.shields.io/badge/-IT%20Automation%20w%2F%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Automation with Python"/>
+**Vulnerability management:** Qualys VMDR, Qualys Vulnerability Management, Qualys Scanning Strategies and Best Practice, Qualys Endpoint Detection and Response Foundation, CompTIA Security+, Infosec Vulnerability Assessment
 
-  <!-- IBM DevOps Essentials -->
-  <img src="https://img.shields.io/badge/-IBM%20DevOps%20Essentials-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DevOps Essentials"/>
+**SIEM and platform:** Splunk Enterprise Certified Admin, Splunk Core Certified Advanced Power User, Splunk Core Certified Power User, Cribl Certified Observability Engineer (CCOE) Stream User, Cisco CCNA
 
-  <!-- Google IT Support -->
-  <img src="https://img.shields.io/badge/-IT%20Support%20Certificate-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support"/>
+**Delivery:** Certified Scrum Master (Scrum Alliance), IBM IT Scrum Master Professional, Google IT Automation with Python, DevOps Essentials
 
-  <!-- Splunk Power User -->
-  <img src="https://img.shields.io/badge/-Splunk%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Core Certified Power User"/>
+## Toolkit
 
-  <!-- Splunk Advanced Power User -->
-  <img src="https://img.shields.io/badge/-Splunk%20Advanced%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Advanced Power User"/>
+`Qualys VMDR` `Splunk Enterprise` `Cribl` `Python` `PowerShell` `Ansible` `Terraform` `Azure` `AWS` `Google Cloud` `Windows Server` `Linux` `Caddy` `Docker` `systemd` `Node.js` `React` `Rust` `SQLite` `Git`
 
-  <!-- Splunk Admin -->
-  <img src="https://img.shields.io/badge/-Splunk%20Admin-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Enterprise Certified Admin"/>
+---
 
-  <!-- Cisco Cybersecurity Essentials -->
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Essentials-1D63ED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cybersecurity Essentials"/>
-
-  <!-- Cisco CCNA -->
-  <img src="https://img.shields.io/badge/-Cisco%20CCNA-1D63ED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
-</div>
-
-
-<!-- BLOCKED FROM HERE
-## [Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-
-<!--
-**tfasanya79/tfasanya79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built by Tim, one small tool at a time.
