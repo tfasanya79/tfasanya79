@@ -14,6 +14,7 @@ Small, single purpose tools I designed, built and deployed myself. Each one repo
 
 | Tool | What it does |
 |------|--------------|
+| [exposure-skill](https://github.com/tfasanya79/exposure-skill) | Authorised assessment skill pack. A scope gate that refuses to run without recorded approval, then TLS, email authentication and security header checks graded A to F. |
 | [cert-check](https://timfas.com/cert-check/) | TLS certificate assessment: expiry countdown, chain of trust, negotiated protocol version, key strength, hostname coverage, letter grade. Server side checks refuse to connect to private or reserved addresses. |
 | [inspect](https://timfas.com/inspect/) | Domain email authentication and browser security header inspection: SPF, DKIM, DMARC, CSP, HSTS, X-Frame-Options. Weighted A to F grading. Resolver blocks private, loopback and link local ranges. |
 | [acl-gen](https://timfas.com/acl-gen/) | Firewall rule and ACL translator. One rule in, Cisco IOS, pfSense, iptables, AWS NACL and Azure NSG out, with shadowed rule detection and a packet path tester. |
